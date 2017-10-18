@@ -1,0 +1,4 @@
+﻿  源.cpp
+h:\socket\iocp_server\iocp_server\源.cpp(206): warning C4018: “<”: 有符号/无符号不匹配
+  IOCP_server.vcxproj -> H:\Socket\IOCP_server\Debug\IOCP_server.exe
+  IOCP_server.vcxproj -> H:\Socket\IOCP_server\Debug\IOCP_server.pdb (Full PDB)
